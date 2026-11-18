@@ -555,8 +555,8 @@ document.addEventListener('DOMContentLoaded', () => {
     if (shareBtn) {
         shareBtn.addEventListener('click', async () => {
             const shareData = {
-                title: 'Save the Date | Aaliya Mehazin & Shibil Muhammad',
-                text: 'With the blessings of Almighty Allah & our families, you are cordially invited to celebrate the wedding ceremony of Aaliya Mehazin & Shibil Muhammad on Sunday, December 6, 2026 at Papilio Wonderland, Padaparamba. Nikah at 11:00 AM. Kindly grace this occasion with your presence and duas.',
+                title: 'Save the Date | Fathima Shamila & Muhammed Dilshad',
+                text: 'With the blessings of Almighty Allah & our families, you are cordially invited to celebrate the wedding ceremony of Fathima Shamila & Muhammed Dilshad on Sunday, December 6, 2026 at Papilio Wonderland, Padaparamba. Nikah at 11:00 AM. Kindly grace this occasion with your presence and duas.',
                 url: window.location.href
             };
 

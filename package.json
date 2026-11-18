@@ -1,7 +1,7 @@
 {
-  "name": "save-the-date-aaliya",
+  "name": "save-the-date-shamila",
   "version": "1.0.0",
-  "description": "Wedding invitation website for Aaliya Mehazin & Shibil Muhammad",
+  "description": "Wedding invitation website for Fathima Shamila & Muhammed Dilshad",
   "main": "index.html",
   "scripts": {
     "dev": "npx -y serve . -l 3000",
