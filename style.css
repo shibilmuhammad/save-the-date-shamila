@@ -134,6 +134,10 @@ body.opening-active {
     object-position: center;
     transition: opacity 0.7s ease;
     pointer-events: none; /* Prevents browser native video HUD or pause toggles */
+    transform: translateZ(0);
+    -webkit-transform: translateZ(0);
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
 }
 
 .envelope-video::-webkit-media-controls,
